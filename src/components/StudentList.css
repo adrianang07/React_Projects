@@ -1,0 +1,7 @@
+.student_list_section {
+    border: 1px solid white;
+    padding: 12px;
+    margin-top: 12px;
+    border-radius: 5px;
+    list-style: none;
+}
